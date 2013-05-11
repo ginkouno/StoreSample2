@@ -1,0 +1,29 @@
+{"root":[
+    {
+      "name":"taro",
+      "age":45,
+      "children":[
+        {"name":"tarotaro", "age":10},
+        {"name":"tarojiro", "age":9},
+        {"name":"tarosaburo", "age":8}
+      ]
+    },
+    {
+      "name":"jiro",
+      "age":40,
+      "children":[
+        {"name":"jirotaro", "age":10},
+        {"name":"jirojiro", "age":9},
+        {"name":"jirosaburo", "age":8}
+      ]
+    },
+    {
+      "name":"saburo",
+      "age":35,
+      "children":[
+        {"name":"saburotaro", "age":10},
+        {"name":"saburojiro", "age":9},
+        {"name":"saburosaburo", "age":8}
+      ]
+    }
+  ]}
